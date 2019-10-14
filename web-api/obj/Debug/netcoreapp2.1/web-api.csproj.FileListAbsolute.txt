@@ -1,0 +1,14 @@
+/home/gcarino/Documents/Github/docker-lab/web-api/bin/Debug/netcoreapp2.1/web-api.deps.json
+/home/gcarino/Documents/Github/docker-lab/web-api/bin/Debug/netcoreapp2.1/web-api.runtimeconfig.json
+/home/gcarino/Documents/Github/docker-lab/web-api/bin/Debug/netcoreapp2.1/web-api.runtimeconfig.dev.json
+/home/gcarino/Documents/Github/docker-lab/web-api/bin/Debug/netcoreapp2.1/web-api.dll
+/home/gcarino/Documents/Github/docker-lab/web-api/bin/Debug/netcoreapp2.1/web-api.pdb
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.csprojAssemblyReference.cache
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.csproj.CoreCompileInputs.cache
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.RazorAssemblyInfo.cache
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.RazorAssemblyInfo.cs
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.AssemblyInfoInputs.cache
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.AssemblyInfo.cs
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.RazorTargetAssemblyInfo.cache
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.dll
+/home/gcarino/Documents/Github/docker-lab/web-api/obj/Debug/netcoreapp2.1/web-api.pdb
